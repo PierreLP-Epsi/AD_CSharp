@@ -1,0 +1,6 @@
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B2\Réseau (Reinold Frédéric)\ScriptAd\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B2\Réseau (Reinold Frédéric)\ScriptAd\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B2\Réseau (Reinold Frédéric)\ScriptAd\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B2\Réseau (Reinold Frédéric)\ScriptAd\ConsoleApplication1\ConsoleApplication1\obj\Debug\AD.csprojResolveAssemblyReference.cache
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B2\Réseau (Reinold Frédéric)\ScriptAd\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B2\Réseau (Reinold Frédéric)\ScriptAd\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
